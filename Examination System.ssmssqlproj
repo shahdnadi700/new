@@ -1,0 +1,88 @@
+<?xml version="1.0"?>
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Examination System">
+  <Items>
+    <LogicalFolder Name="Connections" Type="2" Sorted="true">
+      <Items>
+        <ConnectionNode Name="DESKTOP-9IISLS5:DESKTOP-9IISLS5\cc">
+          <Created>2025-01-14T02:13:05.8858535+02:00</Created>
+          <Type>SQL</Type>
+          <Server>DESKTOP-9IISLS5</Server>
+          <UserName />
+          <Authentication>Windows Authentication</Authentication>
+          <InitialDB />
+          <LoginTimeout>30</LoginTimeout>
+          <ExecutionTimeout>0</ExecutionTimeout>
+          <ConnectionProtocol>NotSpecified</ConnectionProtocol>
+          <ApplicationName />
+        </ConnectionNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Queries" Type="0" Sorted="true">
+      <Items>
+        <FileNode Name="DCL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DCL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DDL.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DDL.sql</FullPath>
+        </FileNode>
+        <FileNode Name="DML.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>DML.sql</FullPath>
+        </FileNode>
+        <FileNode Name="FileGroups.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>FileGroups.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Functions.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Functions.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Indexes.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Indexes.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Roles.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Roles.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SoredProc.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>SoredProc.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Trigger.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Trigger.sql</FullPath>
+        </FileNode>
+        <FileNode Name="Views.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-9IISLS5:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-9IISLS5</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>Views.sql</FullPath>
+        </FileNode>
+      </Items>
+    </LogicalFolder>
+    <LogicalFolder Name="Miscellaneous" Type="3" Sorted="true">
+      <Items />
+    </LogicalFolder>
+  </Items>
+</SqlWorkbenchSqlProject>
